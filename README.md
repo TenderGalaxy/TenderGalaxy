@@ -1,7 +1,21 @@
-## Hi!
-I'm Fenl (Otherwise known as TenderGalaxy)
-- Location: California
-- Mostly working on NickOS and Bloxd Technical Projects
-- DMs welcome (erasedgarbage)
+<h1 align="center">Hi 👋, I'm fenl_</h1>
+- Working a lot on [NickOS](github.com/tendergalaxy/nickos)
+
+- DM me at **discordapp.com/channels/@me/1227115317646589972**
+
+- ⚡ Fun fact **I suck at programming**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/playbloxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="playbloxd" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tendergalaxy&show_icons=true&locale=en" alt="tendergalaxy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tendergalaxy&" alt="tendergalaxy" /></p>
+
 
 <img width="489" height="259" alt="Screenshot 2025-07-21 at 10 16 06 PM" src="https://github.com/user-attachments/assets/a3f0e7fc-64c3-49a2-a908-5b8698789d04" />
