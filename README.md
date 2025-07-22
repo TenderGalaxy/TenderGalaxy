@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fenl_</h1>
-- Working a lot on [NickOS](github.com/tendergalaxy/nickos)
+- Working a lot on [url=github.com/tendergalaxy/nickos]NickOS[\url]
 
 - DM me at **discordapp.com/channels/@me/1227115317646589972**
 
