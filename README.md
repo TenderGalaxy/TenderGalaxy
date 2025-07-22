@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm fenl_</h1>
 
-- Working a lot on [NickOS](google.com)
+- Working a lot on [NickOS](https://github.com/tendergalaxy/nickos)
 
-- DM me at**discordapp.com/channels/@me/1227115317646589972**
+- DM me at **discordapp.com/channels/@me/1227115317646589972**
 
 - ⚡ Fun fact: **I suck at programming**
 
