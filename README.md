@@ -3,7 +3,7 @@
 
 - DM me at **discordapp.com/channels/@me/1227115317646589972**
 
-- ⚡ Fun fact **I suck at programming**
+- ⚡ Fun fact: **I suck at programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
