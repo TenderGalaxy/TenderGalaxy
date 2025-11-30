@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fenl_</h1>
-- Working a lot on MinOS
+- Working a lot on [MinOS](github.com/tendergalaxy/nickos/tree/main/experimental)
 
 - Check out [NickOS](github.com/tendergalaxy/nickos)
 
@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.leetcode.com/tendergalaxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tendergalaxy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
