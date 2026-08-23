@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm fenl_</h1>
 
-- Working a lot on [MinOS](github.com/tendergalaxy/nickos/tree/main/experimental)
+- Working a lot on [DashOS](github.com/tendergalaxy/dashos)
 
 - Check out [NickOS](github.com/tendergalaxy/nickos)
 
